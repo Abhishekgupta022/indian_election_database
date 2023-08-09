@@ -1,4 +1,5 @@
-**Project Title: Exploratory Data Analysis and Visualization of Indian Election Dataset using Python**
+**Project Title: Exploratory Data Analysis and Visualization of Indian Election Dataset using Python\n**
+
 **project Link:** https://jovian.com/abhishekgupta022/indian-election-database-project
 
 **Project Description:**
